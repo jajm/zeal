@@ -1,3 +1,9 @@
+zeal (0.1) unstable; urgency=low
+
+  * Rebased on 85d4375 #36 zeal.desktop added
+
+ -- Julian Maurice <jajm@jajm.org>  Sat, 28 Dec 2013 17:47:30 +0200
+
 zeal (0.0) unstable; urgency=low
 
   * Initial Release.
